@@ -22,7 +22,7 @@ const product = {
 console.log(product);
 
 const profile = {
-    username : "habiba",
+    username : "habibaa",
     posts : 195,
     isfollow : "false",
     followers : 23,
